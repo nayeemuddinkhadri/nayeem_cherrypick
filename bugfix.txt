@@ -1,3 +1,1 @@
 we have fixed the bug in v3
-second bug is fixed
-3rd bug fixed.
